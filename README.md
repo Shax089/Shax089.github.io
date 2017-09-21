@@ -8,7 +8,8 @@
 "Ayt" - Just to consider everything.
 **Syntax highlighted** _code_ block below
 
-```the box of codes...
+```
+the box of codes...
 
 # Header 1
 ## Header 2
@@ -24,7 +25,7 @@
 
 [Link](url) and ![Image](src)
  ...codes/box ends here
-```
+ ```
 
 ### Contact Me
 
